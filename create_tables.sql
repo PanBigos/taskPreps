@@ -120,7 +120,7 @@ CREATE TABLE protocols.results_table (
     close_block             INTEGER,
     open_ts                 TIMESTAMP,
     close_ts                TIMESTAMP,
-    entry_price             FLOAT,6
+    entry_price             FLOAT,
     close_price             FLOAT,
     last_avg_price          FLOAT,
     liquidation_mark_price  FLOAT,
